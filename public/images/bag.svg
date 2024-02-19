@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="design_import" transform="translate(-126 -132)">
+    <rect id="Rectangle_1312" data-name="Rectangle 1312" width="20" height="20" transform="translate(126 132)" fill="none"/>
+    <g id="suitcase_2_" data-name="suitcase (2)" transform="translate(127 132.5)">
+      <path id="Path_6960" data-name="Path 6960" d="M13.188,5.335a.741.741,0,0,1-.741-.741V3.482H9.482V4.594A.741.741,0,1,1,8,4.594V3.482A1.484,1.484,0,0,1,9.482,2h2.964a1.484,1.484,0,0,1,1.482,1.482V4.594A.741.741,0,0,1,13.188,5.335Z" transform="translate(-1.964)" fill="#fff"/>
+      <path id="Path_6961" data-name="Path 6961" d="M9.532,14.407A1.561,1.561,0,0,1,9,14.5a1.661,1.661,0,0,1-.578-.1L0,11.62v5.655a2.049,2.049,0,0,0,2.062,2.038H15.937A2.049,2.049,0,0,0,18,17.275V11.62Z" transform="translate(0 -2.313)" fill="#fff"/>
+      <path id="Path_6962" data-name="Path 6962" d="M18,7.038v1.7L9.18,11.64a.561.561,0,0,1-.36,0L0,8.735v-1.7A2.049,2.049,0,0,1,2.062,5H15.937A2.049,2.049,0,0,1,18,7.038Z" transform="translate(0 -0.728)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
